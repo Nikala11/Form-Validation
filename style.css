@@ -46,6 +46,7 @@ button {
   color: #ffffff;
   padding: 0.8em 0;
   margin-top: 2em;
+  cursor: pointer;
 }
 input, button {
   display: block;
